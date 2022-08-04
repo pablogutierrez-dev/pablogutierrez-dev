@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Pablo</h1>
-<h2 align="center">Soy Frontend Developer | HTML,CSS, Javascript.</h2>
+<h2 align="center">Frontend Developer | HTML,CSS, Javascript.</h2>
 
 - Sobre mi --> **Soy un Desarrollador Web con conocimientos de HTML, CSS y JS. He trabajado toda mi vida ajeno a la programación, hasta que, por diferentes situaciones, me tope con la posibilidad de realizar un bootcamp de Desarrollador Web Full Stack. He aprendido mucho estos meses partiendo de cero. Me gustaría seguir formándome y trabajar de ello. Me considero una persona responsable y capaz de trabajar en equipo de manera competente. Me encanta la música, el cine y todo lo relacionado con lo digital. Te apetece que trabajemos juntos?**
 
